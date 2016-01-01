@@ -1,0 +1,23 @@
+[
+    {
+        "modid": "VanillaStrappolation",
+        "name": "VanillaStrappolation",
+        "description": "VanillaStrappolation - a complete vanilla overhaul! Requires BlazedCore",
+        "version": "1.0-b1",
+        "mcversion": "1448",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["Screnex"],
+        "credits": "Forge moderators for answerin' some questions",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": [
+            "BlazedCore",
+            "HardcoreEnderExpansion",
+            "EtFuturum"
+        ],
+        "requiredMods":[
+            "BlazedCore"
+        ]
+    }
+]
